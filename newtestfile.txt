@@ -1,1 +1,4 @@
 this is a new document in the repo with necessary codes
+
+Revert some changes and made the changes to code 
+Bug fix
